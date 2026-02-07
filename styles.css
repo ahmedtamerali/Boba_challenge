@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    text-align: center
+}
+
+h1{
+    display: inline-block;
+    font-family: 'Courier New', Courier, monospace;
+    color: red;
+    border: solid #000 2px;
+    padding: 1rem;
+    margin: 1rem 0;
+}
+
+img{
+    display:block;
+    margin: 2rem auto;
+}
+
+p:first-of-type{
+    font-size: 1.2rem;
+    margin-bottom: 0.3rem;
+}
+
+.name{
+    font-style: italic;
+    color: #0037ff;
+}
